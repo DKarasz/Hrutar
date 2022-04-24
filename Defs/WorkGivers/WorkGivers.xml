@@ -62,7 +62,7 @@
 
   <WorkGiverDef>
     <defName>DoBillsCraftHrutarComponents</defName>
-    <label>Craft Gjallarian Components</label>
+    <label>Craft Templar Components</label>
     <giverClass>WorkGiver_DoBill</giverClass>
     <workType>Smithing</workType>
     <priorityInType>100</priorityInType>

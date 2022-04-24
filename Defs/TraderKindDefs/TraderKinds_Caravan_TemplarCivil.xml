@@ -208,7 +208,7 @@
         <countRange>50~80</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
-        <thingDef>GjallariumOre</thingDef>
+        <thingDef>SvarturOre</thingDef>
         <countRange>50~80</countRange>
       </li>	  
       <li Class="StockGenerator_SingleDef">

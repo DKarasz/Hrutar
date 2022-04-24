@@ -23,20 +23,20 @@
         <countRange>500~800</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
-        <thingDef>GjallariumOre</thingDef>
+        <thingDef>SvarturOre</thingDef>
         <countRange>150~350</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>RawMagma</thingDef>
-        <countRange>300~450</countRange>
+        <countRange>500~1300</countRange>
       </li>	  
       <li Class="StockGenerator_SingleDef">
-        <thingDef>Hrutar_BlackSteel</thingDef>
-        <countRange>100~150</countRange>
+        <thingDef>Hrutar_SvarturAlloy</thingDef>
+        <countRange>200~300</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
-        <thingDef>Hrutar_Component</thingDef>
-        <countRange>100~150</countRange>
+        <thingDef>Hrutar_TemplarComponent</thingDef>
+        <countRange>20~50</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Uranium</thingDef>
@@ -57,14 +57,6 @@
       <li Class="StockGenerator_SingleDef">
         <thingDef>Chemfuel</thingDef>
         <countRange>150~300</countRange>
-      </li>
-      <li Class="StockGenerator_SingleDef">
-        <thingDef>Chocolate</thingDef>
-        <countRange>-30~70</countRange>
-      </li>
-      <li Class="StockGenerator_SingleDef">
-        <thingDef>Beer</thingDef>
-        <countRange>-40~100</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>MedicineIndustrial</thingDef>

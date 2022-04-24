@@ -18,7 +18,7 @@
     </graphicData>
     <soundInteract>Interact_ChargeRifle</soundInteract>
     <statBases>
-	  <MarketValue>6000</MarketValue>
+	  <MarketValue>2800</MarketValue>
       <WorkToMake>45000</WorkToMake>
       <Mass>30</Mass>
       <AccuracyTouch>0.65</AccuracyTouch>
@@ -37,8 +37,8 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Hrutar_BlackSteel>90</Hrutar_BlackSteel>
-      <Hrutar_Component>4</Hrutar_Component>
+      <Hrutar_SvarturAlloy>90</Hrutar_SvarturAlloy>
+      <Hrutar_TemplarComponent>4</Hrutar_TemplarComponent>
     </costList>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>
@@ -92,7 +92,7 @@
     </graphicData>
     <soundInteract>Interact_ChargeRifle</soundInteract>
     <statBases>
-	  <MarketValue>6000</MarketValue>
+	  <MarketValue>5000</MarketValue>
       <WorkToMake>45000</WorkToMake>
       <Mass>40</Mass>
       <AccuracyTouch>0.65</AccuracyTouch>
@@ -111,8 +111,8 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Hrutar_BlackSteel>90</Hrutar_BlackSteel>
-      <Hrutar_Component>4</Hrutar_Component>
+      <Hrutar_SvarturAlloy>90</Hrutar_SvarturAlloy>
+      <Hrutar_TemplarComponent>4</Hrutar_TemplarComponent>
     </costList>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>
@@ -184,7 +184,7 @@
     </graphicData>
     <soundInteract>Interact_ChargeRifle</soundInteract>
     <statBases>
-	  <MarketValue>4750</MarketValue>
+	  <MarketValue>2900</MarketValue>
       <WorkToMake>22500</WorkToMake>
       <Mass>15</Mass>
       <AccuracyTouch>0.85</AccuracyTouch>
@@ -203,8 +203,8 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Hrutar_BlackSteel>70</Hrutar_BlackSteel>
-      <Hrutar_Component>2</Hrutar_Component>
+      <Hrutar_SvarturAlloy>70</Hrutar_SvarturAlloy>
+      <Hrutar_TemplarComponent>2</Hrutar_TemplarComponent>
     </costList>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>
@@ -287,8 +287,8 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Hrutar_BlackSteel>125</Hrutar_BlackSteel>
-      <Hrutar_Component>5</Hrutar_Component>
+      <Hrutar_SvarturAlloy>125</Hrutar_SvarturAlloy>
+      <Hrutar_TemplarComponent>5</Hrutar_TemplarComponent>
     </costList>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>
@@ -370,8 +370,8 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Hrutar_BlackSteel>55</Hrutar_BlackSteel>
-      <Hrutar_Component>4</Hrutar_Component>
+      <Hrutar_SvarturAlloy>55</Hrutar_SvarturAlloy>
+      <Hrutar_TemplarComponent>4</Hrutar_TemplarComponent>
     </costList>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>
@@ -434,7 +434,7 @@
     </graphicData>
     <soundInteract>Interact_ChargeRifle</soundInteract>
     <statBases>
-	  <MarketValue>7900</MarketValue>
+	  <MarketValue>12900</MarketValue>
       <WorkToMake>65000</WorkToMake>
       <Mass>75</Mass>
       <AccuracyTouch>1</AccuracyTouch>
@@ -453,8 +453,8 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Hrutar_BlackSteel>130</Hrutar_BlackSteel>
-      <Hrutar_Component>6</Hrutar_Component>
+      <Hrutar_SvarturAlloy>130</Hrutar_SvarturAlloy>
+      <Hrutar_TemplarComponent>6</Hrutar_TemplarComponent>
     </costList>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>

@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Gjallarhorn Race</name>
+	<name>Gjallarian Races: Hrutars</name>
 	<author>Vali and Suvi Dragunova</author>
 	<supportedVersions>
 		    <li>1.3</li>
   	</supportedVersions>
-	<description>V1.0
-    	This mod adds in the Gjallarhorn race and their weapons and apparel.
+	<packageId>ValiSuvi.Hrutar</packageId>
+	<description>
+== Hrutar, The Unbreakable Imperium ==
+- Leivateinn's Templars Faction - (Leivateinn one of the 8 matriarchs of Queen Sigrun Gjallarhorn)
+	
+\\CLASSIFICATION\\ Ruling race in the Gjallarian Sector of the Universe.
+\\APPEARANCE\\ A horned humanlike appearance, Towering over 2.6 to 3.7 meters in height, their eyes resemble as of a goat's.
+\\INFO\\ Their kind are the Bulwark and the Vanguard of the Empire's might, through gene cloning, genetic modifications, enhancements, and selective breeding, they have evolved into a Ruler Species.
+The Hrutars have overwhelming strenght because of their 100 millennium of evolution and non stop conflict. They have the ability to control their fertility and select the gender of their offspring
+They come billions of light years away from the current galaxy
+
+\\RACE: HRUTAR\\
+- Superior Technology: Gjallarhorn Empire has advanced technological superiorly throughout the 100 millennium, weilding fleets of behemoth battle-ships and Planet killing dreadnaughts.
+> High Caliber Bolter Weaponry
+> High Tech Power Armors
+> Efficient Industrial Structures
+> Powerful Defensive Turrets and Artillery
+
+- Towering Super Soldiers: Because of low gravity of Planets in the Gjllarian Sector and the 100 millennium of evolution, Hrutars became Stronger, Taller, Faster and Bigger.
+- Masters of Industry: Includes Global Work Speed, Global Learning Factor.
+- Resilient: Immune to toxic affiliation and can endure against temperatures -90C to 115C, Superior evolutionary enhanced Immune System
+- Rare Doctors: The Hrutars mainly rely on the Axolydians on Scientific and Medical needs, being doctors are not their strongest suit.
+- Unbreakable Will: Hrutars have been mentaly trained to the core, making them unyielding to mentalbreaks. 
+
+\\FACTION: LEIVATEINN TEMPLARS\\
+
 	</description>
 </ModMetaData>
