@@ -100,8 +100,8 @@
 		<statBases>
 			<MarketValue>90</MarketValue>
 			<Mass>1.9</Mass>
-			<StuffPower_Armor_Sharp>2.16</StuffPower_Armor_Sharp>
-			<StuffPower_Armor_Blunt>1.4</StuffPower_Armor_Blunt>
+			<StuffPower_Armor_Sharp>3.56</StuffPower_Armor_Sharp>
+			<StuffPower_Armor_Blunt>2.67</StuffPower_Armor_Blunt>
 			<StuffPower_Armor_Heat>0.65</StuffPower_Armor_Heat>
 			<SharpDamageMultiplier>1.1</SharpDamageMultiplier>
 			<BluntDamageMultiplier>1.3</BluntDamageMultiplier>

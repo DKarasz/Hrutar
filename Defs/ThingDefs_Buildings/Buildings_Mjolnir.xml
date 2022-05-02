@@ -63,7 +63,7 @@
         <fuelGizmoLabel>Belt</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>Shell_HighExplosive</li>
+            <li>RAM_Mjolnir_SHELLS</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>4</fuelCapacity>

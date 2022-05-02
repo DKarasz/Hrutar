@@ -59,7 +59,7 @@
         <fuelGizmoLabel>Belt</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>Shell_HighExplosive</li>
+            <li>RAM_EMP_Missile</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>18</fuelCapacity>

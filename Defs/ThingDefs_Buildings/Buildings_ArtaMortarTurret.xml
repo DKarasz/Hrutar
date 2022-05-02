@@ -59,7 +59,7 @@
         <fuelGizmoLabel>Belt</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>Shell_HighExplosive</li>
+            <li>RAM_HE_Shells</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>12</fuelCapacity>

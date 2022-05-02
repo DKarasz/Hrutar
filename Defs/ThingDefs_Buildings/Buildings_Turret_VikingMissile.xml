@@ -59,7 +59,7 @@
         <fuelGizmoLabel>Belt</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>Shell_HighExplosive</li>
+            <li>RAM_HE_Missile</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>16</fuelCapacity>
@@ -226,7 +226,7 @@
         <fuelGizmoLabel>Belt</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>Shell_HighExplosive</li>
+            <li>RAM_HE_Missile</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>26</fuelCapacity>
@@ -393,7 +393,7 @@
         <fuelGizmoLabel>Belt</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>Shell_HighExplosive</li>
+            <li>RAM_HE_Missile</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>36</fuelCapacity>
