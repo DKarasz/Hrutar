@@ -28,7 +28,7 @@
             </factionRelations>
                 <alienPartGenerator>
 				<borderScale>1</borderScale>
-				<atlasScale>3</atlasScale>  		
+				<atlasScale>8</atlasScale>  		
                 <aliencrowntypes>
 						<li>RamHead</li>
 						<li>RamHead2</li>

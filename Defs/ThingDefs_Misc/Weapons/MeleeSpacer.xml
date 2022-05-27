@@ -5,10 +5,9 @@
     <defName>RAM_Dainas_Eclipse_Crucible</defName>
     <label>Daina's Eclipse Crucible</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -56,10 +55,9 @@
     <defName>RAM_Dianas_Power_Gauntlet</defName>
     <label>Diana's Power Gauntlet</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-50</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -97,10 +95,8 @@
     <defName>RAM_Laevateinn</defName>
     <label>Laevateinn</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
-    <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -150,7 +146,6 @@
     <soundInteract>Heavy_Chain_Pickup</soundInteract>
     <meleeHitSound>Heavy_Chain_Hit</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -204,7 +199,6 @@
     <soundInteract>Heavy_Chain_Pickup</soundInteract>
     <meleeHitSound>Heavy_Chain_Hit</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -255,10 +249,9 @@
     <defName>RAM_TemplarHalberd</defName>
     <label>Templar Halberd</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -318,10 +311,9 @@
     <defName>RAM_TemplarPowerGauntlet</defName>
     <label>Templar Power Gauntlet</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-50</equippedAngleOffset>
-    <relicChance>3</relicChance>
 	<weaponTags>
       <li>RAM_PowerFist</li>
     </weaponTags>
@@ -382,10 +374,9 @@
     <defName>RAM_TemplarPowerSword</defName>
     <label>Templar Power Sword</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -453,10 +444,9 @@
     <defName>RAM_TemplarPowerSwordMarkTwo</defName>
     <label>Templar Power Sword MK2</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -524,10 +514,9 @@
     <defName>RAM_TemplarShortSword</defName>
     <label>Templar Short Sword</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -594,10 +583,9 @@
     <defName>RAM_TemplarWarAxe</defName>
     <label>Templar War Axe</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -665,10 +653,9 @@
     <defName>RAM_Tool_Axe</defName>
     <label>Gjallarian Hatchet</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -735,10 +722,9 @@
     <defName>RAM_Tool_Machete</defName>
     <label>Gjallarian Machete</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -805,10 +791,9 @@
     <defName>RAM_Tool_PickAxe</defName>
     <label>Gjallarian PickAxe</label>
     <description>Placeholder</description>
-    <soundInteract>Interact_MonoSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>Heavy_Melee</meleeHitSound>
     <equippedAngleOffset>-10</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>
@@ -875,10 +860,9 @@
     <defName>MeleeWeapon_PlasmaSword</defName>
     <label>plasmasword</label>
     <description>A metal-cored sword with a cutting edge. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath.</description>
-    <soundInteract>Interact_PlasmaSword</soundInteract>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
     <meleeHitSound>MeleeHit_PlasmaSword</meleeHitSound>
     <equippedAngleOffset>-65</equippedAngleOffset>
-    <relicChance>3</relicChance>
     <weaponClasses>
       <li>MeleePiercer</li>
     </weaponClasses>

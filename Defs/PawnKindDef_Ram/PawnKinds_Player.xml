@@ -5,7 +5,7 @@
 		<defName>Ram_Colonist</defName>
 		<label>Templar Colonist</label>
 		<isFighter>true</isFighter>
-		<combatPower>60</combatPower>
+		<combatPower>200</combatPower>
 		<itemQuality>Normal</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -28,7 +28,7 @@
 		<defName>Ram_Templar</defName>
 		<label>Templar Colonist</label>
 		<isFighter>true</isFighter>
-		<combatPower>30</combatPower>
+		<combatPower>200</combatPower>
 		<itemQuality>Normal</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -62,7 +62,7 @@
 		<defName>Ram_Trader</defName>
 		<label>Templar Trader</label>
 		<trader>true</trader>
-		<combatPower>50</combatPower>
+		<combatPower>175</combatPower>
 		<itemQuality>Good</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -96,7 +96,7 @@
 		<label>Templar Marine</label>
 		<trader>true</trader>
 		<isFighter>true</isFighter>
-		<combatPower>80</combatPower>
+		<combatPower>275</combatPower>
 		<itemQuality>Good</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -132,7 +132,7 @@
 		<label>Templar Guard</label>
 		<trader>true</trader>
 		<isFighter>true</isFighter>
-		<combatPower>80</combatPower>
+		<combatPower>275</combatPower>
 		<itemQuality>Good</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -169,7 +169,7 @@
 		<label>Templar Sentinel Guardian</label>
 		<trader>false</trader>
 		<isFighter>true</isFighter>
-		<combatPower>100</combatPower>
+		<combatPower>400</combatPower>
 		<itemQuality>Excellent</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -210,7 +210,7 @@
 		<label>Templar Sentinel</label>
 		<trader>false</trader>
 		<isFighter>true</isFighter>
-		<combatPower>100</combatPower>
+		<combatPower>400</combatPower>
 		<itemQuality>Excellent</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -245,7 +245,7 @@
 		<label>Templar Sentinel Spectre</label>
 		<trader>false</trader>
 		<isFighter>true</isFighter>
-		<combatPower>250</combatPower>
+		<combatPower>600</combatPower>
 		<itemQuality>Excellent</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -280,7 +280,7 @@
 		<label>Templar Defender Sentinel</label>
 		<trader>false</trader>
 		<isFighter>true</isFighter>
-		<combatPower>300</combatPower>
+		<combatPower>550</combatPower>
 		<itemQuality>Excellent</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -315,7 +315,7 @@
 		<label>Templar Devastator Sentinel</label>
 		<trader>false</trader>
 		<isFighter>true</isFighter>
-		<combatPower>250</combatPower>
+		<combatPower>750</combatPower>
 		<itemQuality>Excellent</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
@@ -350,7 +350,7 @@
 		<label>Templar Valkyrie</label>
 		<trader>false</trader>
 		<isFighter>true</isFighter>
-		<combatPower>250</combatPower>
+		<combatPower>800</combatPower>
 		<itemQuality>Excellent</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
