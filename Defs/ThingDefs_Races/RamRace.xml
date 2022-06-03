@@ -26,7 +26,7 @@
                     </goodwill>
                 </li>       
             </factionRelations>
-                <alienPartGenerator>
+            <alienPartGenerator>
 				<borderScale>1</borderScale>
 				<atlasScale>8</atlasScale>  		
                 <aliencrowntypes>
@@ -81,13 +81,124 @@
 						</first>
 					</li>
 				</colorChannels>
-                </alienPartGenerator>
+				<bodyAddons>
+					<li>
+						<path>Things/Pawn/RamRace/Horns/HornFL</path>
+						<bodyPart>left horn</bodyPart>
+						<inFrontOfBody>true</inFrontOfBody>
+						<layerInvert>false</layerInvert>
+						<alignWithHead>true</alignWithHead>
+						<colorChannel>base</colorChannel>
+						<!--<hediffGraphics>
+							<BionicHorn>Things/Pawns/RamRace/Horns/BionicHornL</BionicHorn>
+							<Crack>
+								<path>Things/Pawns/RamRace/Horns/HornsCrackedL</path>
+								<severity>
+									<a10>Things/Pawns/RamRace/Horns/HornsShatteredL</a10>
+									<a5>Things/Pawns/RamRace/Horns/HornsBrokenL</a5>
+									<a2>Things/Pawns/RamRace/Horns/HornsCrackedL</a2>
+								</severity>
+							</Crack>
+						</hediffGraphics>-->
+					</li>
+					<li>
+						<path>Things/Pawn/RamRace/Horns/HornBL</path>
+						<bodyPart>left horn</bodyPart>
+						<inFrontOfBody>false</inFrontOfBody>
+						<layerInvert>false</layerInvert>
+						<alignWithHead>true</alignWithHead>
+						<colorChannel>base</colorChannel>
+						<!--<hediffGraphics>
+							<BionicHorn>Things/Pawns/RamRace/Horns/BionicHornBL</BionicHorn>
+							<Crack>
+								<path>Things/Pawns/RamRace/Horns/HornsCrackedBL</path>
+								<severity>
+									<a10>Things/Pawns/RamRace/Horns/HornsShatteredBL</a10>
+									<a5>Things/Pawns/RamRace/Horns/HornsBrokenBL</a5>
+									<a2>Things/Pawns/RamRace/Horns/HornsCrackedBL</a2>
+								</severity>
+							</Crack>
+						</hediffGraphics>-->
+					</li>
+					<li>
+						<path>Things/Pawn/RamRace/Horns/HornFR</path>
+						<bodyPart>right horn</bodyPart>
+						<inFrontOfBody>true</inFrontOfBody>
+						<layerInvert>false</layerInvert>
+						<alignWithHead>true</alignWithHead>
+						<colorChannel>base</colorChannel>
+						<linkVariantIndexWithPrevious>true</linkVariantIndexWithPrevious>
+						<!--<hediffGraphics>
+							<BionicHorn>Things/Pawns/RamRace/Horns/BionicHornR</BionicHorn>
+							<Crack>
+								<path>Things/Pawns/RamRace/Horns/HornsCrackedR</path>
+								<severity>
+									<a10>Things/Pawns/RamRace/Horns/HornsShatteredR</a10>
+									<a5>Things/Pawns/RamRace/Horns/HornsBrokenR</a5>
+									<a2>Things/Pawns/RamRace/Horns/HornsCrackedR</a2>
+								</severity>
+							</Crack>
+						</hediffGraphics>-->
+					</li>
+					<li>
+						<path>Things/Pawn/RamRace/Horns/HornBR</path>
+						<bodyPart>right horn</bodyPart>
+						<inFrontOfBody>false</inFrontOfBody>
+						<layerInvert>false</layerInvert>
+						<alignWithHead>true</alignWithHead>
+						<colorChannel>base</colorChannel>
+						<linkVariantIndexWithPrevious>true</linkVariantIndexWithPrevious>
+						<!--<hediffGraphics>
+							<BionicHorn>Things/Pawns/RamRace/Horns/BionicHornR</BionicHorn>
+							<Crack>
+								<path>Things/Pawns/RamRace/Horns/HornsCrackedR</path>
+								<severity>
+									<a10>Things/Pawns/RamRace/Horns/HornsShatteredR</a10>
+									<a5>Things/Pawns/RamRace/Horns/HornsBrokenR</a5>
+									<a2>Things/Pawns/RamRace/Horns/HornsCrackedR</a2>
+								</severity>
+							</Crack>
+						</hediffGraphics>-->
+					</li><!--
+					<li>
+						<path>Things/Pawns/RamRace/Ears/EarL</path>
+						<bodyPart>left ear</bodyPart>
+						<inFrontOfBody>true</inFrontOfBody>
+						<alignWithHead>true</alignWithHead>
+						<drawnDesiccated>false</drawnDesiccated>
+						<colorChannel>skin</colorChannel>
+						<hediffGraphics>
+							<CochlearImplant>Things/Pawns/RamRace/Ears/CochlearImplantL</CochlearImplant>
+							<BionicEar>Things/Pawns/RamRace/Ears/BionicEarL</BionicEar>
+						</hediffGraphics>
+						<hiddenUnderApparelFor>
+							<li>FullHead</li>
+						</hiddenUnderApparelFor>
+					</li>
+					<li>
+						<path>Things/Pawns/RamRace/Ears/EarR</path>
+						<bodyPart>right ear</bodyPart>
+						<inFrontOfBody>true</inFrontOfBody>
+						<alignWithHead>true</alignWithHead>
+						<drawnDesiccated>false</drawnDesiccated>
+						<colorChannel>skin</colorChannel>
+						<linkVariantIndexWithPrevious>true</linkVariantIndexWithPrevious>
+						<hediffGraphics>
+							<CochlearImplant>Things/Pawns/RamRace/Ears/CochlearImplantR</CochlearImplant>
+							<BionicEar>Things/Pawns/RamRace/Ears/BionicEarR</BionicEar>
+						</hediffGraphics>
+						<hiddenUnderApparelFor>
+							<li>FullHead</li>
+						</hiddenUnderApparelFor>
+					</li>-->
+				</bodyAddons>
+            </alienPartGenerator>
                 <!--<forcedRaceTraitEntries>
 					<li>
 						<defName>Ram_Hrutar</defName>
 					</li>
                 </forcedRaceTraitEntries>-->
-                <disallowedTraits>
+            <disallowedTraits>
                 <li>
 					<defName>Wimp</defName>
 				</li><!--<li>Wimp</li>-->
@@ -142,15 +253,16 @@
 					<defName>PsychicSensitivity</defName>
 					<degree>-2</degree><!--<li>Psychically deaf</li>-->
 				</li>
-                </disallowedTraits>
-                <traitCount>4</traitCount>
-                <additionalTraits>1~2</additionalTraits>
+            </disallowedTraits>
+            <traitCount>4</traitCount>
+            <additionalTraits>1~2</additionalTraits>
         </generalSettings>
         <graphicPaths>
         <li>
             <body>Things/Pawn/RamRace/Bodies/</body>
             <head>Things/Pawn/RamRace/Heads/</head>
             <skeleton>Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin</skeleton>
+			<stump></stump>
         </li>
         <li>
             <lifeStageDefs>
@@ -159,6 +271,7 @@
             <body>Things/Pawn/RamRace/Bodies/</body>
             <head>Things/Pawn/RamRace/Heads/</head>
             <skeleton>Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin</skeleton>
+			<stump></stump>
             <skinShader>CutoutComplex</skinShader>
         </li>
         </graphicPaths>
@@ -390,7 +503,7 @@
 			<nameCategory>HumanStandard</nameCategory>
 			<trainability>Advanced</trainability>
 			<hasGenders>true</hasGenders>
-			<body>Human</body>
+			<body>Ram</body>
 			<fleshType>RamGirl</fleshType>
 			<baseBodySize>0.8</baseBodySize>
 			<baseHealthScale>1.5</baseHealthScale>
