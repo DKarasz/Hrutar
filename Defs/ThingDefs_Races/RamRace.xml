@@ -26,32 +26,26 @@
                     </goodwill>
                 </li>       
             </factionRelations>
-            <alienPartGenerator>
-				<borderScale>1</borderScale>
-				<atlasScale>8</atlasScale>  		
+            <alienPartGenerator>		
+				<borderScale>1.5</borderScale>
+				<atlasScale>16</atlasScale>  				
                 <aliencrowntypes>
 						<li>RamHead</li>
-						<li>RamHead2</li>
-						<li>RamHead3</li>
-						<li>RamHead4</li>
-						<li>RamHead5</li>
-						<li>RamHead6</li>
-						<li>RamHead7</li>
 				</aliencrowntypes>
 				<alienbodytypes>
 						<li>Female</li>
 				</alienbodytypes>
 				<useGenderedHeads>false</useGenderedHeads>					
-				<customDrawSize>(1.15, 1.15)</customDrawSize>
-				<customHeadDrawSize>(1.00, 1.00)</customHeadDrawSize>
-				<customPortraitDrawSize>(1.15, 1.15)</customPortraitDrawSize>
-				<customPortraitHeadDrawSize>(1.00, 1.00)</customPortraitHeadDrawSize>
-				<headOffset>(0., 0.25)</headOffset>
+				<customDrawSize>(1.6, 1.6)</customDrawSize>
+				<customHeadDrawSize>(1.6, 1.6)</customHeadDrawSize>
+				<customPortraitDrawSize>(1.4, 1.4)</customPortraitDrawSize>
+				<customPortraitHeadDrawSize>(1.4, 1.4)</customPortraitHeadDrawSize>
+				<headOffset>(0, -0.23)</headOffset>
 				<headOffsetDirectional>
 					<north>(0, 0.0)</north>
-					<east>(-0.03, 0.02)</east>
+					<east>(-0.1, 0.02)</east>
 					<south>(0, 0.0)</south>
-					<west>(0.03, 0.02)</west>
+					<west>(0.1, 0.02)</west>
                 </headOffsetDirectional>
 				<colorChannels>
 					<li>
@@ -81,7 +75,7 @@
 						</first>
 					</li>
 				</colorChannels>
-				<bodyAddons>
+<bodyAddons>
 					<li>
 						<path>Things/Pawn/RamRace/Horns/HornFL</path>
 						<bodyPart>left horn</bodyPart>
@@ -504,9 +498,9 @@
 			<trainability>Advanced</trainability>
 			<hasGenders>true</hasGenders>
 			<body>Ram</body>
+			<baseBodySize>2.5</baseBodySize>
 			<fleshType>RamGirl</fleshType>
-			<baseBodySize>0.8</baseBodySize>
-			<baseHealthScale>1.5</baseHealthScale>
+			<baseHealthScale>2.5</baseHealthScale>
 			<manhunterOnDamageChance>1.00</manhunterOnDamageChance>
 			<foodType>OmnivoreHuman</foodType>
 			<gestationPeriodDays>35</gestationPeriodDays>
